@@ -4,7 +4,7 @@
   "description": "BDD style assertions for node and the browser.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/LearnBoost/expect.js.git"
+    "url": "git://github.com/janmarek/expect2.git"
   },
   "devDependencies": {
     "mocha": "*"

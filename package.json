@@ -6,6 +6,10 @@
     "type": "git",
     "url": "git://github.com/janmarek/expect2.git"
   },
+  "keywords": [
+    "expect", "expect.js", "bdd", "testing", "unit testing", "tdd", "assertion",
+    "assertions"
+  ],
   "devDependencies": {
     "mocha": "*"
   },

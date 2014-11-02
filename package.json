@@ -1,6 +1,6 @@
 {
-  "name": "expect.js",
-  "version": "0.3.1",
+  "name": "expect2",
+  "version": "0.4.0",
   "description": "BDD style assertions for node and the browser.",
   "repository": {
     "type": "git",

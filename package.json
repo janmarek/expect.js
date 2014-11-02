@@ -1,13 +1,15 @@
 {
-    "name": "expect.js"
-  , "version": "0.3.1"
-  , "description": "BDD style assertions for node and the browser."
-  , "repository": {
-        "type": "git",
-        "url": "git://github.com/LearnBoost/expect.js.git"
-    }
-  , "devDependencies": {
-        "mocha": "*"
-      , "serve": "*"
-    }
+  "name": "expect.js",
+  "version": "0.3.1",
+  "description": "BDD style assertions for node and the browser.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LearnBoost/expect.js.git"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/"
+  }
 }

@@ -1,3 +1,4 @@
+var expect = require('../index');
 
 /**
  * Module dependencies.

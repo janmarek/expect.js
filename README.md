@@ -224,13 +224,11 @@ cd expect && npm install
 
 ### Node
 
-`make test`
+`npm test`
 
 ### Browser
 
-`make test-browser`
-
-and point your browser(s) to `http://localhost:3000/test/`
+Open file `test/index.html` in a browser.
 
 ## Credits
 
